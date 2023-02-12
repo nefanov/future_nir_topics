@@ -1,3 +1,7 @@
+Graph features taking into account required during a characterization: at least CFG and DFG, which contained in IR, should be embedded according to its entities relations (NextInstr for CFG and  ARG_i for DFG).
+
+------------------------------------------------------------------------
+
 [R] -- больше рисерч, чем девелопмент
 
 [D] -- девелопмент
